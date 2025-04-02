@@ -6,11 +6,17 @@ import ToggleVisibilidade from "../components/ToggleVisibilidade";
 const Home = () => {
   return (
     <div>
-      Home
       <br />
+      EX1
       <Contador />
+      <br />
+      EX2
       <Saudacao />
+      <br />
+      EX3
       <ToDoList />
+      <br />
+      EX4
       <ToggleVisibilidade />
     </div>
   );
